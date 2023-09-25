@@ -4,7 +4,7 @@
 
 Copyright © 2021 MingsUtilities (https://mingsutilities.com)
 
-## Terms and Conditions for Copying, Distributing, Modifying, Using, the Software
+## Terms and Conditions for Copying, Distributing, Modifying, and Using the Software
 
 This Licence applies to any software that MingsUtilities produces. The Software refers to any software that is produced by MingsUtilities. Hereinafter, copies of the Software, either whole or in part are referred to simply as "the Software". The source code for the Software and modified versions of the Software are referred to as the "Source Code".
 
